@@ -11,6 +11,6 @@
 </picture>
 
 #### Best PRs:
-- [`1Password/sys-locale#35`: unix.rs: modified `_get` to return `Iterator` instead of `Option`](https://github.com/1Password/sys-locale/pull/35)
-- [`pasabanov/locale-match#1`: Added POSIX locale support](https://github.com/pasabanov/locale-match/pull/1)
-- [`ntop/nDPI#2494`: Optimize performance of ndpi_strnstr() and possible bugfix](https://github.com/ntop/nDPI/pull/2494)
+- `1Password/sys-locale#35`: [unix.rs: modified `_get` to return `Iterator` instead of `Option`](https://github.com/1Password/sys-locale/pull/35)
+- `pasabanov/locale-match#1`: [Added POSIX locale support](https://github.com/pasabanov/locale-match/pull/1)
+- `ntop/nDPI#2494`: [Optimize performance of ndpi_strnstr() and possible bugfix](https://github.com/ntop/nDPI/pull/2494)
